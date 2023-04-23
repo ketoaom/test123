@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "test123": "github:ketoaom/test123#04e6116097533df6d071b82fed605f1ee4a9f2c4"
     },
     "files": [
         "main.blocks",
