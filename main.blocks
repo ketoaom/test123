@@ -4,4 +4,10 @@
         . . # . . 
         . # . # . 
         # . . . #
-        `</field></block></statement></block><block type="device_forever" id="T%N_vN.5o_4d`{z~:av5" x="205" y="0"></block></xml>
+        `</field></block></statement></block><block type="device_forever" id="T%N_vN.5o_4d`{z~:av5" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="tQNF51*}(0!9AG8!2r8O"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block></xml>
